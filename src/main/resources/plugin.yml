@@ -1,0 +1,6 @@
+name: BiomeTeller
+version: 1.0
+main: io.github.tanguygab.biometeller.BiomeTeller
+api-version: 1.19
+authors: [ Tanguygab ]
+description: Tells you the biome you've just entered
